@@ -1,6 +1,6 @@
 # LLM-based Maze Agent
 
-<iframe src="https://giphy.com/embed/nVxZ0mbUUmwAJFKhD9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nVxZ0mbUUmwAJFKhD9">via GIPHY</a></p>
+![screenshot](screenshot.png)
 
 Install dependencies:
 
